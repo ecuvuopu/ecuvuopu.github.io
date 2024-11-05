@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ecuvuopu.github.io/KmN/sitemap_index.txt
+Sitemap: https://ecuvuopu.github.io/VsF/sitemap_index.txt
+Sitemap: https://ecuvuopu.github.io/blA/sitemap_index.txt
+Sitemap: https://ecuvuopu.github.io/uAY/sitemap_index.txt
